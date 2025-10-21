@@ -1,0 +1,11 @@
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\bin\Debug\FileCopyTest.exe.config
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\bin\Debug\FileCopyTest.exe
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\bin\Debug\FileCopyTest.pdb
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.csproj.AssemblyReference.cache
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.Form1.resources
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.Properties.Resources.resources
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.csproj.GenerateResource.cache
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.csproj.CoreCompileInputs.cache
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.exe
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.pdb
+C:\Users\kopbe\source\repos\FileCopyTest\FileCopyTest\obj\Debug\FileCopyTest.exe.config
